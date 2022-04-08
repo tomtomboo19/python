@@ -1,0 +1,4 @@
+ComputerVisionClient
+PIL
+streamlit
+CognitiveServicesCredentials
