@@ -1,4 +1,5 @@
-ComputerVisionClient
+azure.cognitiveservices.vision.computervision
 PIL
 streamlit
 CognitiveServicesCredentials
+msrest
