@@ -1,5 +1,4 @@
 azure.cognitiveservices.vision.computervision
 pillow
 streamlit
-CognitiveServicesCredentials
 msrest
